@@ -3,7 +3,8 @@ Python Tkinter Calculator
 
 A basic calculator application written in Python using Tkinter GUI library.
 
-![caption]()
+
+<img src="https://github.com/acotales/tkcalculator/blob/main/demo/demo.gif" alt="calc demo" height="350"/>
 
 Contents:
 ----------
