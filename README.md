@@ -9,7 +9,7 @@ Contents:
 
 - */main.py* - Main python file
 - */tests/calc.exe* - Windows OS executable file
-- *src/tkcalculator/calculator.py* - The actual python program
+- */src/tkcalculator/calculator.py* - The actual python program
 
 
 Feature(s):
